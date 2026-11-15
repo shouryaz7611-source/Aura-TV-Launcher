@@ -23,10 +23,11 @@
 </p>
 
 <p align="center">
-  <img src="./IMG_20261115_150735.jpg" alt="Control Centre" width="32%">
-  <img src="./IMG_20261115_150720.jpg" alt="Wallpaper Selector" width="32%">
-  <img src="./IMG_20261115_150701.jpg" alt="Customization Studio" width="32%">
+  <img src="./IMG_20261115_150735.jpg" alt="Control Centre" height="150">
+  <img src="./IMG_20261115_150720.jpg" alt="Wallpaper Selector" height="150">
+  <img src="./IMG_20261115_150701.jpg" alt="Customization Studio" height="150">
 </p>
+
 
 
 
