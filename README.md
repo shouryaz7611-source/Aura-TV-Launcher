@@ -16,6 +16,18 @@
 * **Clean App Dock:** A streamlined bottom dock for quick, lag-free navigation across streaming apps (Netflix, Prime Video, YouTube)
  browsers, and system utilities.
 
+## 📷 Screenshots
+
+<p align="center">
+  <img src="./screenshots/main_ui.png" alt="Aura TV Launcher Main UI" width="100%">
+</p>
+
+<p align="center">
+  <img src="./screenshots/control_centre.png" alt="Control Centre" width="49%">
+  <img src="./screenshots/wallpapers.png" alt="Wallpaper Selector" width="49%">
+</p>
+
+
 ## 🚀 Installation
 
 1. Download the latest `.apk` from the [Releases](../../releases) page.
