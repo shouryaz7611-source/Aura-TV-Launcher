@@ -18,14 +18,16 @@
 
 ## 📷 Screenshots
 
-<!-- Line 22: Replace with your first uploaded file (Main UI) -->
-<img src="./IMG_20261115_150650.jpg" alt="Aura TV Launcher Main UI" width="100%">
+<p align="center">
+  <img src="./IMG_20261115_150650.jpg" alt="Aura TV Launcher Main UI" width="100%">
+</p>
 
-<!-- Line 26: Replace with your second uploaded file (Control Centre) -->
-<img src="./IMG_20261115_150735.jpg" alt="Control Centre" width="49%">
+<p align="center">
+  <img src="./IMG_20261115_150735.jpg" alt="Control Centre" width="32%">
+  <img src="./IMG_20261115_150720.jpg" alt="Wallpaper Selector" width="32%">
+  <img src="./IMG_20261115_150701.jpg" alt="Customization Studio" width="32%">
+</p>
 
-<!-- Line 27: Replace with your third uploaded file (Wallpapers) -->
-<img src="./IMG_20261115_150720.jpg" alt="Wallpaper Selector" width="49%">
 
 
 ## 🚀 Installation
