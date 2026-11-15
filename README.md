@@ -41,8 +41,7 @@
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! if you wanna contribute mail me at shouryas0416@gmail.com 
-
+Contributions, issues, and feature requests are welcome!
 
 ## Insta Page
 
