@@ -46,7 +46,7 @@
 
 Contributions, issues, and feature requests are welcome!
 
-## Insta Page
+## 🎬 Social Media
 
 Don't forget to follow me at instagram
 @razer_bionic
